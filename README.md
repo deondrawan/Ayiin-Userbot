@@ -8,7 +8,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/AyiinXd/Ayiin-Userbot?&logo=github)](https://github.com/AyiinXd/Ayiin-Userbot/stargazers)
 
 
-<p align="center">
+<p align="center">### DEPLOY HEROKU ###
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/deondrawan/Ayiin-Userbot/edit/Ayiin-Userbot/README.md> <img src="https://img.shields.io/badge/Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
   <img src="https://telegra.ph/file/940f21be8d8863b6c70ae.jpg">
 </p>
 
